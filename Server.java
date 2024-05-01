@@ -1,3 +1,5 @@
+//Run this program through terminal
+
 import javax.swing.*;
 import javax.swing.border.*;
 import java.awt.*;
